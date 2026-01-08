@@ -118,7 +118,6 @@ public class Network {
             }
         }
         return count;
-        return 0;
     }
 
     // Returns a textual description of all the users in this network, and who they follow.
